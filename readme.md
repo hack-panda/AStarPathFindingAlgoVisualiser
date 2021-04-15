@@ -1,0 +1,1 @@
+An application to visualise the A* path finding algorithm. Python's pygame library is used for graphics.
